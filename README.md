@@ -31,7 +31,6 @@ URL shortening is used to optimize links across devices, track individual links 
 - Application should store logs information about requests.
 ### Non-Functional Requirements:
 - URL redirection should happen in real-time with minimal latency.
-- Shortened links should not be guessable (not predictable).
 - Please add small project description to Readme.md file.
 ### During implementation please pay attention to:
 - Application is runnable out of box. If some setup is needed please provide details on ReadMe file.
