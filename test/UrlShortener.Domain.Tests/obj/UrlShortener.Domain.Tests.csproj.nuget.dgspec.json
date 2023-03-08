@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj": {}
+    "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj": {
+    "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
+        "projectUniqueName": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
         "projectName": "UrlShortener.Data",
-        "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
+        "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
         "packagesPath": "C:\\Users\\arudz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arudz\\source\\repos\\UrlShortenerTask\\src\\UrlShortener.Data\\obj\\",
+        "outputPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arudz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+    "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
         "projectName": "UrlShortener.Domain",
-        "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
+        "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj",
         "packagesPath": "C:\\Users\\arudz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arudz\\source\\repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\obj\\",
+        "outputPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arudz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,8 +109,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj": {
-                "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj"
+              "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj": {
+                "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj"
               }
             }
           }
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj": {
+    "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj",
         "projectName": "UrlShortener.WebApplication",
-        "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj",
+        "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj",
         "packagesPath": "C:\\Users\\arudz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arudz\\source\\repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\obj\\",
+        "outputPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arudz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,8 +190,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
-                "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
               }
             }
           }
@@ -254,14 +254,14 @@
         }
       }
     },
-    "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj": {
+    "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj",
         "projectName": "UrlShortener.Domain.Tests",
-        "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj",
+        "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\test\\UrlShortener.Domain.Tests\\UrlShortener.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\arudz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arudz\\source\\repos\\UrlShortenerTask\\test\\UrlShortener.Domain.Tests\\obj\\",
+        "outputPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\test\\UrlShortener.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arudz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -278,11 +278,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
-                "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
               },
-              "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj": {
-                "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj"
+              "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj": {
+                "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj"
               }
             }
           }

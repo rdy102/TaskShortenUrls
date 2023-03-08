@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfFmIs4NUDOaO1XnXi0Aq8+xwjCqqqGtBdKlNOf3C849ZXdCPCHHJQ0zJb/crMMHXvgqpVt0dyUvFUOnXr89Kw==",
+  "dgSpecHash": "RGKXy3E6T5OkTBTy716wJCA+WcGufQfFJet8/hGe5Cer64Kn7z5wXphZs3hT1dK0161qX1fhBCZpMPQ55/7Hng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj",
+  "projectFilePath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.WebApplication\\UrlShortener.WebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arudz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\arudz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

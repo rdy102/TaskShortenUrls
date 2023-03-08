@@ -911,11 +911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
+      "projectUniqueName": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
       "projectName": "UrlShortener.Data",
-      "projectPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
+      "projectPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\UrlShortener.Data.csproj",
       "packagesPath": "C:\\Users\\arudz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arudz\\Source\\Repos\\UrlShortenerTask\\src\\UrlShortener.Data\\obj\\",
+      "outputPath": "C:\\Users\\arudz\\source\\repos\\TaskShortenUrls\\src\\UrlShortener.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arudz\\AppData\\Roaming\\NuGet\\NuGet.Config",
