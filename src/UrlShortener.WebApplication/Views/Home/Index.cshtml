@@ -1,9 +1,49 @@
-﻿@{
+﻿@using UrlShortener.Data.Context;
+@model List<ShortUrlResponse>
+@{
     ViewData["Title"] = "Home Page";
 }
+
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <h3>Hi {username}!</h3>
     <p> Please check <a asp-area="" asp-controller="Home" asp-action="TechTaskDetails">Task Details</a> for more details.</p>
 </div>
+
+@{
+    if (Model.Any())
+    {
+        <table class="short-url-grid">
+            <thead>
+                <tr>
+                    <th>Alias</th>
+                    <th>URL</th>
+                    <th>Shorten URL</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Alias</td>
+                        <td>@item.Url</td>
+                        <td>
+                            <a href="/shorturlapi/@item.Alias" target="_blank">@item.UrlWithAlias</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+    }
+    else
+    {
+        <div class="text-center">
+            <h2>
+            <a href="http://localhost:5167/swagger/index.html" style="text-decoration:none;"target="_blank">Go to swagger</a>
+            </h2>
+        </div>
+    }
+}

@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{18F2F8C4-A59
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EDDDFC26-FF44-43E4-9FB2-693CB78F6DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener.WebApplication", "src\UrlShortener.WebApplication\UrlShortener.WebApplication.csproj", "{C174E7B0-F7AE-4919-833A-C60A7C581C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlShortener.WebApplication", "src\UrlShortener.WebApplication\UrlShortener.WebApplication.csproj", "{C174E7B0-F7AE-4919-833A-C60A7C581C64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

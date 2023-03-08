@@ -1,18 +1,36 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
+
+.short-url-grid {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+    .short-url-grid th,
+    .short-url-grid td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .short-url-grid th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
